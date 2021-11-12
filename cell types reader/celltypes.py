@@ -1,3 +1,7 @@
+"""
+Cell types reader from file names
+Written by Mahatma Wisesa
+"""
 import os
 import numpy as np
 import re
