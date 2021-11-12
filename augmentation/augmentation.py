@@ -1,3 +1,9 @@
+
+"""
+Image Augmentation for Acute Lymphoblastic Leukemia L1
+Written by Mahatma Wisesa
+"""
+
 import cv2 as cv
 import os
 
