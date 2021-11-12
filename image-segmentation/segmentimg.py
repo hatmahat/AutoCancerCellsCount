@@ -1,6 +1,5 @@
 """
 Image segmentation for Acute Lymphoblastic Leukemia L1
-
 Written by Mahatma Wisesa
 """
 
