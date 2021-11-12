@@ -296,7 +296,7 @@ class SegmentImg:
         """
         self.save(saved_folder, f'{addition_name}', self.thresh_inv_gray)
 
-    def masked_all(self, on='thresh_inv_green', mask='org_dict'): # perbaiki masik make rescaled dict
+    def masked_all(self, on='thresh_inv_green', mask='org_dict'):
         """Masking Thresholded imag to original image.
         
         Parameters
