@@ -1,10 +1,14 @@
+"""
+Image segmentation for Acute Lymphoblastic Leukemia L1
+
+Written by Mahatma Wisesa
+"""
+
 import cv2 as cv
 import os
 
 class SegmentImg:
-    """Image segmentation for Acute Lymphoblastic Leukemia L1
-       coded by Mahatma Wisesa
-
+    """
     Parameters
     ------------
     ROOT_DIR : str
