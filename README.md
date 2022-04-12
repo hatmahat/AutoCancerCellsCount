@@ -2,7 +2,8 @@
 ![image](images/Picture1.jpg)
 <p align="center">
     Example detection result 1
-</p>
+</p>  
+
 ![image](images/Picture2.jpg)
 <p align="center">
     Example detection result 2
