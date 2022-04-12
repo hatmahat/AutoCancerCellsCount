@@ -17,14 +17,14 @@
     <img width="100%" src="images/Picture3.jpg">
 </p>
 <p align="center">
-    Image pre-processing
+    Image pre-processing (segmentation, augmentation, annotation)
 </p>  
 
 <p align="center" width="100%">
     <img width="100%" src="images/Picture4.png">
 </p>
 <p align="center">
-    Image augmentation
+    Image segmentation
 </p>  
 
 <p align="center" width="100%">
