@@ -6,17 +6,23 @@
     Example detection result 1
 </p>  
 
-![image](images/Picture2.jpg)
+<p align="center" width="100%">
+    <img width="100%" src="images/Picture2.jpg">
+</p>
 <p align="center">
     Example detection result 2
 </p>  
 
-![image](images/Picture3.jpg)
+<p align="center" width="100%">
+    <img width="100%" src="images/Picture3.jpg">
+</p>
 <p align="center">
     Image pre-processing
 </p>  
 
-![image](images/Picture4.png)
+<p align="center" width="100%">
+    <img width="100%" src="images/Picture4.png">
+</p>
 <p align="center">
     Image augmentation
 </p>
