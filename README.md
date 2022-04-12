@@ -28,7 +28,7 @@
 </p>  
 
 <p align="center" width="100%">
-    <img width="100%" src="images/Picture5.png">
+    <img width="100%" src="images/Picture5.jpg">
 </p> 
 <p align="center">
     Model performance
