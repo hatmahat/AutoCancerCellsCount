@@ -1,6 +1,6 @@
 # Detection and Instance Segmentation of White Blood Cells Based on Mask R-CNN in Acute Lymphoblastic Leukemia L1 Patient
 <p align="center" width="100%">
-    <img width="33%" src="images/Picture1.jpg">
+    <img width="100%" src="images/Picture1.jpg">
 </p>
 <p align="center">
     Example detection result 1
