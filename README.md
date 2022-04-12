@@ -25,4 +25,11 @@
 </p>
 <p align="center">
     Image augmentation
+</p>  
+
+<p align="center" width="100%">
+    <img width="100%" src="images/Picture5.png">
+</p> 
+<p align="center">
+    Model performance
 </p>
