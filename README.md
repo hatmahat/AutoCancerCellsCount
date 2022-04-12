@@ -7,4 +7,9 @@
 ![image](images/Picture2.jpg)
 <p align="center">
     Example detection result 2
+</p>  
+
+![image](images/Picture3.jpg)
+<p align="center">
+    Image pre-processing
 </p>
