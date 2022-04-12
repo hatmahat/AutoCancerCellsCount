@@ -14,7 +14,7 @@
     Image pre-processing
 </p>  
 
-![image](images/Picture4.jpg)
+![image](images/Picture4.png)
 <p align="center">
     Image augmentation
 </p>
