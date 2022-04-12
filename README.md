@@ -12,4 +12,9 @@
 ![image](images/Picture3.jpg)
 <p align="center">
     Image pre-processing
+</p>  
+
+![image](images/Picture4.jpg)
+<p align="center">
+    Image augmentation
 </p>
