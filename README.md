@@ -17,7 +17,7 @@
     <img width="100%" src="images/Picture3.jpg">
 </p>
 <p align="center">
-    Image Pre-processing (segmentation, augmentation, annotation)
+    Image Pre-processing (Segmentation, Augmentation, and Annotation)
 </p>  
 
 <p align="center" width="100%">
