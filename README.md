@@ -3,40 +3,40 @@
     <img width="100%" src="images/Picture1.jpg">
 </p>
 <p align="center">
-    Example detection result 1
+    Example Detection Result 1
 </p>  
 
 <p align="center" width="100%">
     <img width="100%" src="images/Picture2.jpg">
 </p>
 <p align="center">
-    Example detection result 2
+    Example Detection Result 2
 </p>  
 
 <p align="center" width="100%">
     <img width="100%" src="images/Picture3.jpg">
 </p>
 <p align="center">
-    Image pre-processing (segmentation, augmentation, annotation)
+    Image Pre-processing (segmentation, augmentation, annotation)
 </p>  
 
 <p align="center" width="100%">
     <img width="100%" src="images/Picture4.png">
 </p>
 <p align="center">
-    Image segmentation
+    Image Segmentation
 </p>  
 
 <p align="center" width="100%">
     <img width="100%" src="images/Picture5.jpg">
 </p> 
 <p align="center">
-    Model performance
+    Model Performance
 </p>  
 
 <p align="center" width="100%">
     <img width="100%" src="images/Picture6.jpg">
 </p> 
 <p align="center">
-    Model hyperparameters
+    Model Hyperparameters
 </p>
