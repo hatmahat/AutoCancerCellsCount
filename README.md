@@ -28,15 +28,15 @@
 </p>  
 
 <p align="center" width="100%">
-    <img width="100%" src="images/Picture5.jpg">
-</p> 
-<p align="center">
-    Model Performance
-</p>  
-
-<p align="center" width="100%">
     <img width="100%" src="images/Picture6.jpg">
 </p> 
 <p align="center">
     Model Hyperparameters
 </p>
+
+<p align="center" width="100%">
+    <img width="100%" src="images/Picture5.jpg">
+</p> 
+<p align="center">
+    Model Performance
+</p>  
