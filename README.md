@@ -14,7 +14,7 @@
 </p>  
 
 <p align="center" width="100%">
-    <img width="100%" src="images/Picture3a.jpg">
+    <img width="100%" src="images/Picture3a.jpeg">
 </p>
 <p align="center">
     Data Exploration and Data Splitting (train, validation, & test set)
