@@ -35,6 +35,13 @@
 </p>  
 
 <p align="center" width="100%">
+    <img width="100%" src="images/Picture56.jpg">
+</p> 
+<p align="center">
+    Model Training (optimal-fitting)
+</p>  
+
+<p align="center" width="100%">
     <img width="100%" src="images/Picture6.jpg">
 </p> 
 <p align="center">
